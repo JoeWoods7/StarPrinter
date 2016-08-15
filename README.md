@@ -5,5 +5,14 @@ void starD():     *
   
     ***
      *
-     
+          *
+    ***
+   *****
+  *******
+ *********
+ *********
+  *******
+   *****
+    ***
+     *
 Also includes javadoc in stars.html
