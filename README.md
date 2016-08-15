@@ -2,13 +2,7 @@
 Java program that prints various star patterns using asterisks.
 
 void starD():     *
-    ***
-   *****
-  *******
- *********
- *********
-  *******
-   *****
+  
     ***
      *
      
